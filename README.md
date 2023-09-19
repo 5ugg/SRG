@@ -1,2 +1,0 @@
-# SRG
-Spanish Review Game
